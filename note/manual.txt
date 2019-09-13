@@ -1,0 +1,42 @@
+¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p
+¢p                                                                ¢p
+¢p      ¡@                  ¢Û¢é¢ö¢ý¢é¢ô                          ¢p
+¢p                                                                ¢p
+¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p
+¢p                                                                ¢p
+¢p 1.Use "¡ô","¡õ","¡ö","¡÷",and "Enter" only.                    ¢p
+¢p                                                                ¢p
+¢p 2.Your name must be less than 12 letters in English or shorter ¢p
+¢p   than 6 words in Chinese. Duplicate names will be considered  ¢p
+¢p   the same person.                                             ¢p
+¢p                                                                ¢p
+¢p 3.Object:                                                      ¢p
+¢p   "¡¹" is an apple , "¡¸" is a barrier.                        ¢p
+¢p                                                                ¢p
+¢p 4.Mode:                                                        ¢p
+¢p   -"Easy¡BNormal¡BHard"                                        ¢p
+¢p                                                                ¢p
+¢p   The score is 3 in the beginning. Get 1 point while eating    ¢p
+¢p   an apple. Game over while hitting wall, barrier, or body.    ¢p
+¢p                                                                ¢p
+¢p   -"Challenge"                                                 ¢p
+¢p                                                                ¢p
+¢p   The score is 3 in the beginning. Time counts backward from   ¢p
+¢p   1 minute. Time plus 2 seconds if you eat an apple,and minus  ¢p
+¢p   10 seconds if you hit the wall, barrier, and snake's body.   ¢p
+¢p   Game over when on time.                                      ¢p
+¢p                                                                ¢p
+¢p 5.Rank:                                                        ¢p
+¢p   You can see the top ten through different rankings.          ¢p
+¢p                                                                ¢p
+¢p 6.Mission:                                                     ¢p
+¢p   You can see all missions divided into finished and unfinish. ¢p
+¢p                                                                ¢p
+¢p 7.Developer:                                                   ¢p
+¢p   You can use "Developer" delete data. If you choose "Player", ¢p
+¢p   delete all the player's data, non-own data, please be careful¢p
+¢p   to use.                                                      ¢p
+¢p                                                                ¢p
+¢p 8.AGREE ALL THE RULE! Have a nice day.<3                       ¢p 
+¢p                                                                ¢p
+¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p¢p

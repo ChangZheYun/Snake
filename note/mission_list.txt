@@ -1,0 +1,22 @@
+[Super Easy]  get 10 points in easy.
+[Piece of Cake]  get 10 points in normal.
+[It's not Hard]  get 10 points in hard.
+[A Challenge]  get 10 points in challenge.
+[Simple Mission]  get 30 points in easy.
+[Normal]  get 25 points in normal.
+[A Little Hard Challenge]  get 20 points in hard.
+[Nice]  get 20 points in challenge.
+[More than 100 Points]  get more than 100 points in easy.
+[87]  get 87 points exactly in normal.
+[Hardcore]  get 69 points exactly in hard.
+[Amazing]  get 100 points in challenge.
+[An Apple A Day]  eat an apple exactly.
+[Take it Easy]  play easy mode 10 times.
+[Ordinary people]  play normal mode 10 times.
+[Play Hard]  play hard mode 10 times.
+[Insanity]  play challenge mode 20 times.
+[Hard-Working]  play this game 50 times.
+[Idlers]  get 1000 points in total.
+[You Are Lasting]  play a game for 300 sec.
+[Sidestep A+]  Don't hitting anything in challenge.
+[The Lie]  hit a barrier in hard.
